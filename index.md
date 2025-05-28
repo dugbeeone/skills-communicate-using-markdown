@@ -14,3 +14,11 @@
 >
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> H
 <details><summary>I</summary><img title="Another Image of Yaktocat" alt="Another Image of Yaktocat" src="https://octodex.github.com/images/yaktocat.png"></details>
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+``` javascript
+var myVar = "Hello, world!";
+```
